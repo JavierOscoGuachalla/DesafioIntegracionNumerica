@@ -1,2 +1,3 @@
-# DesafioIntegracionNumerica
-ejercicios 19 al 27
+# Aplicación Web
+
+Permite ingresar pares $x, y$ o una función $f(x)$ con $a$, $b$ y $n$, y elegir trapecio, Simpson 1/3, Simpson 3/8 o combinado (con $n$ par indica que equivale a Simpson 1/3; con $n$ impar detalla los tramos 1/3 + 3/8). Muestra resultados con 6 decimales y unidades, el valor sin factor de conversión, errores calculados en la misma unidad que la referencia, la tabla de nodos y pesos, un gráfico del área y el desarrollo matemático paso a paso. Incluye la sección de volumen, superficie simplificada y superficie real del ejercicio 27, un aviso que identifica los datos hipotéticos del ejercicio 26 y un botón de pruebas que recalcula 46 valores de este informe: los 46 coinciden con valores calculados de forma independiente en Python. Valida listas desiguales, $x$ no creciente, datos no numéricos, espaciamiento no uniforme y $n$ incompatible.
